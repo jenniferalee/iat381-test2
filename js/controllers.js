@@ -9,9 +9,9 @@ phonecatApp.controller('PhoneListCtrl', function ($scope) {
      'snippet': 'Subtly improved and smartly refined.',
      'age': 3},
     {'name': 'Nokia 3310',
-     'snippet': 'INDUSTRUCTIBLE',
+     'snippet': 'INDESTRUCTIBLE',
      'age': 4},
-     {'name': 'iPhone 6 Plus',
+    {'name': 'iPhone 6 Plus',
      'snippet': 'The New Phablet.',
      'age': 1},
   ];
