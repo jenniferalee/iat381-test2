@@ -5,7 +5,7 @@ phonecatApp.controller('PhoneListCtrl', function ($scope) {
     {'name': 'Nexus 5',
      'snippet': 'Fast just got faster with Nexus 5.',
      'age': 2},
-    {'name': 'Samsung Galaxy',
+    {'name': 'Samsung Galaxy s5',
      'snippet': 'Sublty Refined',
      'age': 3},
     {'name': 'Nokia 3310',
