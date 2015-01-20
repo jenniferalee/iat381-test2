@@ -4,16 +4,16 @@ phonecatApp.controller('PhoneListCtrl', function ($scope) {
   $scope.phones = [
     {'name': 'Nexus S',
      'snippet': 'Fast just got faster with Nexus S.',
-     'age': 1},
+     'age': 2},
     {'name': 'Motorola XOOM™ with Wi-Fi',
      'snippet': 'The Next, Next Generation tablet.',
-     'age': 2},
+     'age': 3},
     {'name': 'MOTOROLA XOOM™',
      'snippet': 'The Next, Next Generation tablet.',
-     'age': 3},
+     'age': 4},
      {'name': 'iPhone 6 Plus',
      'snippet': 'The New Phablet.',
-     'age': 4},
+     'age': 1},
   ];
 
   $scope.orderProp = 'age';
