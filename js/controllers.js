@@ -11,8 +11,8 @@ phonecatApp.controller('PhoneListCtrl', function ($scope) {
     {'name': 'MOTOROLA XOOM™',
      'snippet': 'The Next, Next Generation tablet.',
      'age': 3},
-     {'name': 'Another phone',
-     'snippet': 'The Next, Next Generation tablet.',
+     {'name': 'iPhone 6 Plus',
+     'snippet': 'The New Phablet.',
      'age': 4},
   ];
 
